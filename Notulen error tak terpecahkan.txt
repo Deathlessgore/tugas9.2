@@ -1,0 +1,5 @@
+masalah:
+
+- tidak bisa intall gunicorn
+- saya coba buat ulang venv nya, muncul masalah baru pada bson
+- example word sudah berjalan dan terhubung ke database, hanya saja pada page tidak tampil. error pada javascript for (let i = 0; i < examples.length; i++) 
